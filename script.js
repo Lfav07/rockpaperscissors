@@ -71,4 +71,3 @@ document.getElementById("scissors").addEventListener("click", function () {
         resetGame();
     });
 });
-
